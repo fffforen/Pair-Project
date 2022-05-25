@@ -10,4 +10,7 @@
 1、	一次可以出一千道道题目，并且没有重复的，把题目写入一个文件中。<br>
 2、	支持多个运算符，最多 10 个运算符，括号的数量不限制。<br>
 ## 三、运行结果：
+![img](https://github.com/fffforen/Pair-Project/blob/master/Pair-Project/images/Running%20result%201.png)
+![img]()
+![img]()
 ![img]()
